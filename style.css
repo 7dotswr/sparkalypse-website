@@ -18,6 +18,10 @@ div.menu-tab {
 	position: fixed;
 }
 
+div.main-content {
+	text-align: center;
+}
+
 footer {
   background-color: #05081c;
 	color: #ffffff;
